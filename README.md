@@ -1,2 +1,5 @@
-# flask-hw
-A hello world Flask app
+# Flask Hello World
+
+An example app showing the basic use of Flask with templates.
+
+Enjoy!
